@@ -1,4 +1,4 @@
-![Street Fighter V](Images/SFVAE-header.jpg)
+![Street Fighter V](Images\SFVAE-header.jpg)
 ==========
 
 ##Feature summary

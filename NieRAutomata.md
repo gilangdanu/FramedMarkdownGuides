@@ -1,4 +1,4 @@
-![NieRAutomata](Images\nier-automata-header.png){.shadowed}
+![NieRAutomata](Images/nier-automata-header.png)
 ==========
 
 ##Feature summary

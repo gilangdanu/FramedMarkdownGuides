@@ -1,4 +1,4 @@
-![NieRAutomata](Images/nier-automata-header.png)
+![NieRAutomata](Images\nier-automata-header.png)
 ==========
 
 ##Feature summary

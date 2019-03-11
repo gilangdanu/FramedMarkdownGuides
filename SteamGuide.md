@@ -16,7 +16,7 @@ After searching the name of the game, record its appID.
 After that, you need to find the content you want to download by take a look at depot list. The easiest way to find the depot you need is by comparing files on SteamDB with your local files, if they're identical, that's most likely the depot you want to download. Record its DepotID.
 
 Example:
-![depot example](\Images\steamcmd-guide-1.jpg)
+![depot example](Images\Steamcmd-guide-1.jpg)
 
 ### 5. Get ManifestID
 Every specific version of the content you want to download are listed on 'Manifests' tab. They're marked by timestamp and ManifestID. Record the ManifestID
